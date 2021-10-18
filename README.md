@@ -2,7 +2,7 @@
 
 ![CryptoSus Picture](https://hendsomdoge.netlify.app/images/cri.JPG "CryptoSus")
 
-## This is an online image gallery where you can share images with your friends.
+## This is a sussy cryptocurrency tracker with information such as ost popular currencies, information on single currencies, news etc.
 
 ## [To Visit This Click Here](https://cryptosus.netlify.app/)
 
